@@ -1,0 +1,94 @@
+Here are your complete professional image generation prompts for **TinyToons Universe**:
+
+---
+
+## 🎨 CHANNEL ICON PROMPT
+*(Use for: YouTube profile picture — 800×800px square)*
+
+```
+A vibrant 3D animated cartoon logo for a kids YouTube channel called 
+"TinyToons Universe". Centered design featuring three adorable round-faced 
+3D cartoon children — a golden-haired boy in blue overalls, a black pigtailed 
+Indian girl in pink, and a chubby baby in a yellow star onesie — all hugging 
+together with enormous joyful smiles and sparkling eyes. They are bursting out 
+of a glowing rainbow-colored shooting star. Background is a rich deep indigo 
+circle with tiny white sparkle dots. Bold chunky text "TT" in golden 3D letters 
+at the bottom. Ultra vibrant saturated colors, CoComelon 3D animation quality, 
+professional studio lighting, perfectly centered composition, no text clutter, 
+clean circular frame ready for YouTube profile picture.
+```
+
+---
+
+## 🖼️ CHANNEL LOGO / BANNER PROMPT
+*(Use for: YouTube banner — 2560×1440px wide)*
+
+```
+A spectacular wide horizontal YouTube channel banner for "TinyToons Universe" 
+kids channel. Left side: three joyful 3D cartoon children characters jumping 
+and dancing — a curly golden-haired boy in blue denim overalls, an Indian girl 
+with black pigtails in a bright pink outfit, and a chubby laughing baby in a 
+yellow star-print onesie. Center: giant bold 3D text "TinyToons Universe" in 
+chunky rounded bubble letters, golden yellow with glowing indigo outline and 
+sparkle shine effect. Right side: colorful floating elements — rainbow, musical 
+notes, stars, alphabet blocks A-B-C, small cartoon animals smiling. Background: 
+smooth gradient from deep royal indigo (#4F46E5) to rich violet (#7C3AED) with 
+soft bokeh glowing orbs. Bottom strip: bright sunshine yellow ribbon. Overall 
+mood: magical, joyful, energetic, child-safe. Ultra HD, professional 3D render, 
+CoComelon quality animation style, no dark shadows, maximum color vibrancy.
+```
+
+---
+
+## 🎭 WATERMARK / ENDCARD LOGO PROMPT
+*(Use for: bottom-right corner of every video)*
+
+```
+A small compact 3D logo badge for "TinyToons Universe". Circular shape with 
+deep indigo background and golden glowing border. Center shows a tiny smiling 
+golden-haired 3D cartoon boy waving. Below him bold white text "TinyToons" on 
+one line and "Universe" on second line in rounded bubble font. Surrounded by 
+three tiny floating stars. Clean, minimal, readable at small sizes, 
+transparent-background-friendly, professional 3D render quality, 
+ultra sharp edges, no gradients on text.
+```
+
+---
+
+## 🖼️ THUMBNAIL TEMPLATE FRAME PROMPT
+*(Use for: base template for all video thumbnails)*
+
+```
+A reusable YouTube thumbnail frame template for TinyToons Universe kids channel. 
+Bright gradient background going from electric yellow top-left to hot pink 
+bottom-right. Bold thick rounded rectangular frame border in deep indigo with 
+golden glow effect. Top-left corner: small "TinyToons Universe" logo badge in 
+white. Bottom strip: thick indigo ribbon with space for white title text. 
+Floating decorative elements at edges: musical notes, stars, small rainbow, 
+sparkles. Center area intentionally blank — reserved for character artwork. 
+Extremely vibrant, ultra saturated, highly clickable children's YouTube 
+style, 1280×720px proportion, professional design.
+```
+
+---
+
+## 🛠️ FREE TOOLS TO GENERATE THESE
+
+| Tool | Link | Best For |
+|------|------|----------|
+| **Stable Diffusion XL** | huggingface.co/spaces/stabilityai/stable-diffusion | All 4 prompts |
+| **Adobe Firefly** | firefly.adobe.com (free tier) | Logo + Banner |
+| **Leonardo AI** | leonardo.ai (free 150 credits/day) | Icon + Watermark |
+| **Bing Image Creator** | bing.com/create (free, DALL-E 3) | Quick drafts |
+| **Canva AI** | canva.com (free) | Banner with text |
+
+---
+
+## 💡 PRO TIPS
+
+- For the **icon**: Generate at 1024×1024, then resize to 800×800 in Canva free
+- For the **banner**: Generate at 1792×1024 (closest free ratio), upscale with upscayl.org (free, open source)
+- Add the actual text **"TinyToons Universe"** in Canva after generating — AI text is often blurry
+- Use **Fredoka One** font (free Google Font) for all text overlays to match your brand
+- **Color codes to use in Canva**: Primary `#4F46E5`, Accent `#D97706`, Background dark `#0F172A`
+- Generate 3–4 variants of each and pick the best one

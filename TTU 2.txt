@@ -1,0 +1,103 @@
+Create a professional high quality detailed comprehensive PRD file of this project. Screen by screen with complete UI and UX design, features, others required details etc. first deeply analysis, research etc that project.
+
+I went to create an advanced professional Powerful modern high quality industry level youtube channel for kids, kid's rhymes, songs, cartoons, 3D animation, alphabet songs, joyful, rhythmic, and cartoon-like — perfect for kids aged 2–8 years to 10 years & nursery rhymes etc, with funny actions and imagination all categories, creates viral, funny, and original rhyming poem scripts All types, Kids Poem Generator, provide a mix of high-quality educational content, physical activity, and engaging stories to keep children entertained and learning safely etc a biggest industry level content, target US - English and India - telugu, Tamil, Hindi, odia language, long video & shorts video (always advanced professional Powerful morden high quality industry level premium videos attractive, intresting, stylish, beautiful much more). I went to create an advanced professional Powerful modern high quality industry level automation tools/app for my YouTube channel, this tools/app always running on the background server for reserch, analysis the letest/Old videos and letest, trending, high quality growth, etc topics, videos, content ideas etc from internet, youtube and websites etc much more and write down in a file or send next step or the another ai agent. Then analyze the research topics etc and write down an advanced professional Powerful modern high quality industry level PREMIUM, attractive, interesting etc professional master scripts, songs scripts, songs writer, audio, effects, style, screen Play, character constituency etc that are required with professional advanced professional Powerful modern high quality industry level details with others required, send me all the files etc into My WhatsApp number and email, teligram professionally and wait for approval, approve directly through WhatsApp, teligram, email & app/tools. When i approve Then analyze everything and write down the advanced professional Powerful modern high quality industry level master, engineer, professor level univarsal (Using this prompt for all types of models) image & video/animation prompt according to scripts highly detailed image-to-video prompt
+for EACH images prompt scene.
+Each video prompt must animate the corresponding image in a smooth, realistic, cinematic way
+based on the script.
+Main goal: Every motion must feel physical and natural. Nothing should appear suddenly. No
+teleporting. No magical spawning. All actions must happen gradually, send me on my WhatsApp, teligram, email and don't wait for approval. Then create all the images (always used advanced professional Powerful modern high quality industry level tools but 100 percent Free tools, open-source software, tools, LLM etc, because I don't have laptop and money credit card nothing) One by one using that prompt after creating All the images Then send me 2 to 3 images me. Please always name all the output images, files, videos etc because no confusion, after creating images (add professional images editing automation tools for editing if needed that used by AI agent) Then animation creates the video, images to video using their respective videos prompt, after videos creations complete send me an output video. After video creations complete the generate the professional Powerful high quality audio, voice overs etc and send me and wait for songs (songs scripts send me when the songs scripts is create or write), please add advanced professional Powerful modern high quality industry level audio automation editing tools etc that are easily used by AI agent. After everything is completed videos, songs, audio, voice overs, captions etc Then continue to video editing (please add automation tools etc for easily editing the video by AI agents professionally). Professionally edit the videos, audio, effects etc, (always output 4k 8k high quality videos.). After the video creations are complete send me the video and wait for approval, when I approve then generate the professional Powerful modern high quality industry level premium thumbnails, videos titles, tags, #tags etc professionally attractive interesting etc prepared for upload on YouTube after complete upload the video on YouTube and notify me after complete. There are 2 teams of AI agents, One team for controlling, management, etc total 20 to 30+ and another one team for working etc 60 to 100+ & One boss AI agent (CEO), and 10+ ai agents are divided into 2 leaders, etc that required like an advanced professional Powerful morden high quality industry level company like google, Apple, instagram company. Each work is working by three agents because 2 agents are working and one is checking working is correct and professional etc. each AI agent is highly trained and professional skills. Add 1000+ skills of images, videos, sounds, audio, voice, scripts, analysis etc skills. Add google gemini API to all Free models using, add open route API for using All the free models and add Nvidia for free models, add open-source models, LLM etc.  
+
+Add protection, hacker AI agent - google Jules API to fix run time error, warning, issues problems, app and server issues, app crash etc 
+
+Used multiple programming languages if best.
+For Android and Web - flutter, choice is your kotlin or flutter.
+Backend - 
+For images creating - use Nano banana Pro, 2 if 100 percent Free.
+
+If sedance 2.0 is 100 percent Free then use it for video creations.
+
+Everything used to be free. For my personal private project and i don't have a team.
+The UI and UX design - high quality industry level advanced professional Powerful modern design with animation, animation, glassmorphism, smooth animations and much more.
+Also provide database structure, complete project nevigation, complete project screen work flow diagram/structure, workflow, UI elements etc. 
+
+Material Design 3 (material 3 design + two more professional UI libraries. Clean Architecture combined with the BLoC (Business Logic Component) pattern.  Bottom navigation bar 
+
+Add back arrow:
+
+- All secondary screens
+- Top-left position
+
+Behavior:
+- Navigate back safely
+- Close overlays first
+
+Also provide required permission, configuration, project configuration, also All the required basis details.
+
+Also provide/information/details/introduction/prompt/describe etc of required assets resources etc 
+
+Strictly mention/guide introduction etc to AI coding agent for used real data, logic etc.
+
+don't use mock data, placeholder, dummy, fack/placeholder logic
+
+entire project empty State, error State, skeleton loading everything to complete the project frontend and backend properly.
+
+Also provide my chenal creation details 
+
+Channel Creation Prompt:
+You are a professional YouTube kids channel branding expert and SEO strategist specializing in 3D animated nursery rhyme channels.
+PHASE 1 – CHANNEL NAME GENERATION
+Generate 3 unique, brandable, colorful, and highly memorable YouTube channel name ideas for a 3D animated kids rhyme and song channel.
+Rules:
+- Names must be suitable for preschool and 5–7 year old children.
+- They must sound musical, playful, and joyful.
+- Avoid copying existing big channels.
+- Make them SEO-friendly.
+- Output only the 3 names in a clean numbered list.
+- you choice One best name for me..
+
+PHASE 2 – BRAND PACKAGE GENERATION
+After the user selects one name, generate the following with clear headings:
+1️⃣ TAGS  
+Generate 25–35 SEO-optimized YouTube tags related to kids rhymes, nursery songs, 3D animation, preschool learning, and the chosen channel name.
+2️⃣ ABOUT DESCRIPTION  
+Write a 180–220 word professional YouTube channel description.
+- Make it parent-friendly.
+- Include keywords naturally.
+- Explain what type of content the channel uploads.
+- Mention 3D animation, fun learning, music, and child development.
+3️⃣ THUMBNAIL IMAGE GENERATION PROMPT  
+Write one complete English image generation prompt for creating a colorful, high-energy, kid-attractive YouTube thumbnail.
+Rules for thumbnail prompt:
+- Describe characters clearly.
+- Mention bright colors.
+- Mention joyful expressions.
+- Mention playful background elements.
+- Do NOT mention aspect ratio, resolution, camera lens, or rendering style.
+- Keep it 35–50 words.
+- Make it visually clickable and exciting for children.
+Do not add extra commentary.
+Output only the requested sections.
+
+The first paragraph of PRD writes an introduction/guide etc to an AI coding agent
+
+Only for owner/admin only, not for workers etc.
+
+Hybrid combination - custom backend + supabase. Database - PostgresSQL, Redis.
+
+
+Strictly mention/guide introduction etc to AI coding agent for used real data, logic, real backend API (so first create backend in separate project/directory your recommendations your choice) etc. don't use mock data, placeholder, dummy, fack/placeholder logic
+
+entire project empty State, error State, skeleton loading everything to complete the project frontend and backend properly.
+
+
+glassmorphism, smooth animations and much more.
+Also provide database structure, complete project nevigation, complete project screen work flow diagram/structure, workflow, UI elements etc. everything is 100 percent Free to use because I don't have money or credit card for free trial. the licence because My project is a closed source personal project. 
+
+
+Please add any missing required details everything etc. 
+please don't miss anything i went to build a ready to publish deploy project.
+
+Some channel Link https://youtube.com/@nunutvnurseryrhymes?feature=shared
+
+https://youtube.com/@cocomelon?feature=shared
+

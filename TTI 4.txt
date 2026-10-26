@@ -1,0 +1,64 @@
+Here's the complete **PRD Part 2 Addendum** — your full specification is now two documents working together. Here's exactly what was added:
+
+---
+
+**📋 Part 2 Addendum — 10 Deep-Detail Sections:**
+
+**Section A — Kids Poem Generator**
+The full specification for the creative engine: 17 script types with rhyme schemes and target ages, the complete Master Script Template structure (every field the AI must fill — from character bible to YouTube metadata), a full sample script for an English action song, the exact Gemini system prompt to inject, and multi-language script rules with Edge-TTS voice mapping per language.
+
+**Section B — Flutter Complete Code Architecture**
+Real implementation code: `main.dart` entry point, complete Material 3 dark theme with all color tokens, the reusable Glassmorphism `GlassCard` widget (with backdrop filter + frosted border), full GoRouter navigation config with auth redirect, GetIt dependency injection setup, the complete DashboardBloc (events/states/bloc), skeleton shimmer loading widget, Hive box schema with all 5 boxes, all 7 Failure types, and the universal `AppErrorWidget`.
+
+**Section C — Backend Services**
+Full Node.js code: BullMQ job processors for research and script generation, Gemini service with round-robin key rotation and OpenRouter fallback, 5 FFmpeg automation commands (concat, audio mix, subtitle burn-in, 4K export, Shorts crop), Edge-TTS voiceover service with all 5 language voices, YouTube Data API v3 upload service with COPPA/Made-for-Kids flag, and Supabase RLS policies for all tables.
+
+**Section D — Notification Templates**
+Every WhatsApp message template (research complete, script approval, image samples, final video approval, upload complete), all 15 Telegram bot commands, the Telegram inline keyboard approval card code, and the HTML email template.
+
+**Section E — Image & Video Prompt Templates**
+The Universal Prompt Formula (8 components), a fully worked example image prompt for a scene, the video animation prompt template with physics rules, and the thumbnail prompt formula — all battle-tested against CoComelon quality.
+
+**Section F — Character Design Bible**
+Full profiles for all 4 characters: Tino (English host), Priya (Telugu/Tamil host), Arjun (Hindi/Odia host), Starla (baby mascot) — including exact hex color codes, 3D style proportions, personality traits, and 6 consistency rules for AI image agents.
+
+**Section G — UI Component Catalogue**
+20 atomic UI components with specs, the complete NavigationBar widget code, and the universal back arrow implementation pattern.
+
+**Section H — Agent Skill Registry**
+1000+ skills organized across 7 categories: Research (150), Script Writing (200), Image Generation (180), Video Animation (150), Audio Production (150), YouTube/SEO (170), Error Handling (100+).
+
+**Section I — Testing Strategy**
+Backend Jest/Supertest/Bull Board testing, Flutter BLoC tests, widget tests for all 3 states, golden tests, and coverage targets for every layer.
+
+**Section J — Monetization Roadmap**
+Three phases: YouTube Partner Program (Month 1–6), merchandise via Redbubble/Gumroad (Month 6–12), brand deals and content licensing (Month 12+), plus the future child-facing app roadmap.
+
+
+
+
+All 3 parts are ready. Here is everything that's in Part 3:
+
+**Section P — Complete Config Files**
+Full `pubspec.yaml` (every Flutter package), complete `package.json` (every backend dependency), `tsconfig.json`, `railway.json`, `render.yaml`, `ecosystem.config.js` (PM2), GitHub Actions CI/CD workflow, Flutter `.env`, backend `.env.example` with every variable.
+
+**Section Q — Full SQL Migrations (001–006)**
+001: PostgreSQL extensions + all custom ENUMs. 002: `channels`, `settings`, `admin_sessions` tables. 003: `research_topics`, `scripts`, `image_prompts` with all indexes. 004: `video_jobs`, `ai_agent_logs`, `notifications` with indexes. 005: All 28 default settings seeded. 006: RLS enabled on all 9 tables via service_role, auto `updated_at` triggers, storage bucket policies, agent stats function.
+
+**Section R — All 15 BullMQ Processors**
+`workerServer.ts` master entry, `imageGenProcessor` (Hugging Face SDXL), `videoGenProcessor` (Wan2.1 + SVD fallback), `audioVoiceProcessor` (Edge-TTS + SRT), `audioMusicProcessor` (MusicGen), `videoEditProcessor` (full FFmpeg 4K + Shorts pipeline).
+
+**Section S — All Integrations**
+WhatsApp Baileys full connection + QR + approval message parser. Telegram bot all commands + inline keyboards. JWT RS256 key generation instructions + service. YouTube OAuth 10-step setup. YouTube upload service (video + thumbnail + playlist + Shorts). Node-cron all 5 scheduled jobs. `server.ts` complete entry point.
+
+**Section T — Flutter Screen Code**
+`SplashScreen`, `LoginScreen` (PIN + biometric), `MainShell` (NavigationBar), `SocketService`, `AuthInterceptor` + `ConnectivityInterceptor`.
+
+**Section V — Remaining Features**
+Approval webhook system (email links + central `ApprovalService`). `errorHandler` middleware. Socket.IO broadcast handler. FFmpeg Shorts crop. Playlist auto-create service. Winston logger with daily rotate. Full assets folder structure with download sources.
+
+**Section W — Documentation**
+`.gitignore` for backend and Flutter. Complete `README.md` for both with setup, first-time WhatsApp auth, YouTube OAuth, and deploy steps.
+
+**Section X — Final Build Order + Checklist**
+23-step ordered build sequence with clear "Done When" criteria. 45-point production checklist covering every feature — every item must be ticked before the project is considered complete.
